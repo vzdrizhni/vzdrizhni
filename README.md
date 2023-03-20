@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning NodeJS, MongoDB and GraphQl.
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=vzdrizhni&show_icons=true&theme=dark)
 
